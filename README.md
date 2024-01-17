@@ -1,1 +1,1 @@
-# implementation-of-deep-learning-on-ECG-signals
+# implementation-of-deep-learning-algorithms-on-ECG-signals
